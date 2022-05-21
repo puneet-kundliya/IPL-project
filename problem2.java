@@ -38,6 +38,7 @@ public class problem2 {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println(map);
+        map.remove("");
+        System.out.println("Number of matches won of all teams over all the years of IPL : " + map);
     }
 }

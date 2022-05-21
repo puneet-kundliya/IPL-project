@@ -35,9 +35,7 @@ public class problem3 {
                     }
                 }
             }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
+        }catch (IOException e) {
             e.printStackTrace();
         }
         System.out.println("For the year 2016 get the extra runs conceded per team : " + map);

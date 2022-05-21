@@ -1,6 +1,6 @@
 # IPL-project
 
-### Code a Java program that will transform the raw csv data into a data structure into a Dictionary format.
+### Java program that will transform the raw csv data into a data structure into a Dictionary format.
 
 
 1. Number of matches played per year of all the years in IPL.
